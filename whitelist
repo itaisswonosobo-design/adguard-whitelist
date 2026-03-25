@@ -110,3 +110,57 @@ faspay.co.id
 
 # Nicepay
 nicepay.co.id
+
+# DNS / resolver
+dns.google
+cloudflare-dns.com
+one.one.one.one
+
+# NTP (sinkron waktu penting untuk OTP)
+time.google.com
+time.cloudflare.com
+pool.ntp.org
+
+# Google (banyak dipakai OTP / push notif)
+googleapis.com
+gstatic.com
+
+# Firebase (dipakai banyak aplikasi bank)
+firebaseio.com
+firebaseinstallations.googleapis.com
+fcm.googleapis.com
+
+# Apple (kalau ada user iPhone)
+apple.com
+icloud.com
+push.apple.com
+
+# Cloud CDN yang sering dipakai bank
+akamaized.net
+edgesuite.net
+fastly.net
+cloudfront.net
+
+# Tambahan gateway
+duitku.com
+tripay.co.id
+ipaymu.com
+xfers.com
+
+# WhatsApp (OTP sering lewat sini juga)
+whatsapp.com
+whatsapp.net
+
+# Google Play / update app
+play.googleapis.com
+android.clients.google.com
+
+# Apple App Store
+apps.apple.com
+mzstatic.com
+
+connectivitycheck.gstatic.com
+clients3.google.com
+captive.apple.com
+
+
